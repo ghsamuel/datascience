@@ -1,35 +1,53 @@
-# Data Scientist
-EDUCATION
-Georgia Tech -  MS in Analytics  (Expected May 2026, part-time, remote) 
-Medical University of South Carolina - PhD Molecular Biology
-Westmont College -   BS  Biology
-	
-EXPERIENCE
-Data Analyst /Co-Founder | HealthMappers	July 2022-Sep 2024
-•	Designed and implemented scalable healthcare analytics solutions, transitioning processes from Excel to Python-based workflows for enhanced efficiency. Collaborated with cross-functional team to integrate diverse data sources.
-•	Developed a pipeline for drug surveillance by integrating data from clinicaltrials.gov, Pubmed.gov, and Snowflake. Automated the data input and transformation process with SQL and Python, for structured/unstructured data, and built dashboards to track strategic metrics and KPI’s. 
-•	Developed pipeline to analyze RWD of 20,000+ patient reviews and media reports using NLP (NLTK,SpaCy,pyLDAvis) in consultation with key stakeholders. Used sentiment analysis to identify shifts in public perception over time. 
-•	Conducted impact analysis of trial failures using publicly available data to identify key drivers of early termination that could inform policy recommendations.
-•	Utilized Python’s NetworkX to construct interactive network graphs that mapped relationships between entities such as healthcare providers and clinical trial sites. 
+# Glady Hazitha Samuel - Data Science Portfolio
 
-Research Data Scientist | Texas A & M 	Aug 2016- Sep 2020
-•	Managed and analyzed complex datasets exceeding 1 million data points using Python, R, SQL and Excel, achieving a 20% improvement in processing efficiency.
-•	Developed custom statistical models and visualizations that translated intricate biological data into actionable insights. Conducted in-depth data analysis on vector-control strategies, leveraging statistical methods and advanced analytics to assess the impact of interventions on vector-borne disease.
-•	Streamlined data workflows and quality control processes using Excel automation (Macros, VBA), reducing analysis turnaround times by 30%.
+[![LinkedIn][linkedin-shield]][linkedin-url] [![GitHub][github-shield]][github-url]
 
-Research Associate | Virginia Tech 	June 2015- Aug 2016
-•	Cross-Functional Analytics: Developed custom statistical models and visualizations that translated intricate biological data into actionable insights, contributing to cross-functional decisions. 
-•	Documentation and Reporting: Documented experimental workflows and results in comprehensive reports for data traceability and quality control. Created clear, concise data visualizations and reports for both technical and non-technical audiences.	
+Welcome to my Data Science Portfolio! I’m a data scientist and bioinformatics enthusiast with a passion for turning complex data into actionable insights.
 
-SKILLS
-Programming & Analysis: Python, R, SQL, Linux, Excel
-Excel: Advanced formulas (INDEX/MATCH, VLOOKUP), pivot tables & pivot charts, What-If analysis, VBA Macros.
-Data Science & Modeling: Machine Learniung (scikit-learn, Keras, PyTorch), Time Series Analysis, Statistical Modeling, Predictive Analytics, GenAI – prompt engineering and fine tuning
-Data Visualization & Dashboarding: Plotly, Seaborn, Bokeh, Holoviz, Streamlit, Flask, Basic Tablea
-Database & Reporting: SQL querying, Data Wrangling (Pandas, Numpy), Automated Reporting 
+## About Me
 
-CERTIFICATIONS
-Business Analytics with Excel | John Hopkins University
-Databases and SQL for Data Science with Python | IBM
-Python for Data Science, AI & Development | IBM
-![image](https://github.com/user-attachments/assets/fae75dcf-f1b4-4025-86d7-1e49710d3837)
+Hello! I’m **[Your Name]**, a Data Scientist focused on bioinformatics and data analytics. I combine biology with data science to solve real-world problems by building predictive models, creating interactive visualizations, and developing innovative tools.
+
+## Projects
+
+### **Genome Explorer**
+- **Description:** A tool to visualize and analyze genomic data.
+- **Technologies:** Python, Pandas, Matplotlib, BioPython.
+- **[Repository Link](https://github.com/yourusername/genome-explorer)**
+
+### **DataViz Dashboard**
+- **Description:** An interactive dashboard for real-time analytics and data visualization.
+- **Technologies:** JavaScript, D3.js, Flask, SQL.
+- **[Repository Link](https://github.com/yourusername/dataviz-dashboard)**
+
+### **Predictive Analytics Model**
+- **Description:** A machine learning model predicting disease outcomes based on patient data.
+- **Technologies:** Python, Scikit-Learn, TensorFlow, Jupyter Notebook.
+- **[Repository Link](https://github.com/yourusername/predictive-analytics-model)**
+
+## Skills & Tools
+
+- **Languages:** Python, R, JavaScript
+- **Libraries/Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, D3.js
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Other Tools:** Git, Docker, Jupyter Notebooks, VS Code
+
+## Blog & Publications
+
+I write about data science, analytics, and bioinformatics on my [blog](https://yourblog.com). Some recent posts include:
+- [Analyzing Genomic Data with Python](https://yourblog.com/analyze-genomic-data-python)
+- [Building Interactive Data Visualizations](https://yourblog.com/interactive-data-visualizations)
+
+## Contact
+
+I’d love to connect! Feel free to reach out if you’re interested in collaborations, freelance projects, or just want to chat about data science:
+- **Email:** your.email@example.com
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourusername)
+- **Twitter:** [@yourtwitter](https://twitter.com/yourtwitter)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge
+[linkedin-url]: https://www.linkedin.com/in/yourusername
+[github-shield]: https://img.shields.io/github/followers/yourusername.svg?style=for-the-badge
+[github-url]: https://github.com/yourusername
+
