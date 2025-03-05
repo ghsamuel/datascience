@@ -6,7 +6,7 @@ Welcome to my Data Science Portfolio! I’m a data scientist and bioinformatics 
 
 ## About Me
 
-Hello! I’m **[Your Name]**, a Data Scientist focused on bioinformatics and data analytics. I combine biology with data science to solve real-world problems by building predictive models, creating interactive visualizations, and developing innovative tools.
+Hello! I am a Data Scientist focused on bioinformatics and data analytics. I combine biology with data science to solve real-world problems by building predictive models, creating interactive visualizations, and developing innovative tools.
 
 ## Projects
 
