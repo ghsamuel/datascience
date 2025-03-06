@@ -2,5 +2,7 @@ title: "Glady Samuel"
 description: "My Data Science Portfolio"
 theme: jekyll-theme-cayman
 
-baseurl: "/datascience"  # IMPORTANT: If repo is "datascience"
+baseurl: "/datascience"
 url: "https://ghsamuel.github.io"
+
+markdown: kramdown
