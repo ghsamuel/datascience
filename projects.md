@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: "Projects"
+---
+
 # 🚀 My Data Science Projects
 
 ## **1️⃣ Drug Surveillance with NLP**
