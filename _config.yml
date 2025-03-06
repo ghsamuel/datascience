@@ -3,10 +3,13 @@ description: "Data science, bioinformatics, and machine learning projects."
 author: "Glady Hazitha Samuel"
 theme: jekyll-theme-minimal
 show_downloads: true
-baseurl: "/datascience"  # IMPORTANT: Add this line for correct linking
-url: "https://ghsamuel.github.io"  # Your GitHub Pages URL
+
+baseurl: "/datascience"  # Ensure all links work under /datascience/
+url: "https://ghsamuel.github.io"  # Your main GitHub Pages domain
+
 github:
-  is_project_page: false
+  is_project_page: true
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
