@@ -1,15 +1,3 @@
 title: "Glady Samuel"
-description: "Data science, bioinformatics, and machine learning projects."
-author: "Glady Hazitha Samuel"
-theme: jekyll-theme-minimal
-show_downloads: true
-
-baseurl: "/datascience"  # Ensure all links work under /datascience/
-url: "https://ghsamuel.github.io"  # Your main GitHub Pages domain
-
-github:
-  is_project_page: true
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+description: "My Data Science Portfolio"
+theme: jekyll-theme-cayman
