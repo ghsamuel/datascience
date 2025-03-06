@@ -6,7 +6,7 @@ show_downloads: true
 baseurl: "/datascience"  # IMPORTANT: Add this line for correct linking
 url: "https://ghsamuel.github.io"  # Your GitHub Pages URL
 github:
-  is_project_page: true
+  is_project_page: false
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
