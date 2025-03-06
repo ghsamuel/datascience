@@ -1,13 +1,10 @@
----
-title: "Projects"
----
-
 # 🚀 My Data Science Projects
 
-Here are some of my key projects:
+## **1️⃣ Drug Surveillance with NLP**
+[![Drug Surveillance](https://via.placeholder.com/600x300)](projects/drug-surveillance.md)
 
-- 📊 **[Drug Surveillance with NLP](projects/drug-surveillance.md)**
-- 🧬 **[Genomic Data Pipeline](projects/genomics.md)**
-- 🩺 **[Clinical Trials Analysis](projects/clinical-trials.md)**
+- **Description:** Analyzed **20,000+ patient reviews** using **NLP techniques**.
+- **Tech Stack:** Python, NLP, Sentiment Analysis.
 
+👉 **[Read More](projects/drug-surveillance.md)**  
 👉 **[Back to Home](README.md)**
