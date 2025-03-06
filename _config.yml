@@ -1,5 +1,16 @@
-title: Glady Samuel
+#title: Glady Samuel
 #logo: /assets/img/headshot_circle.png
 #description: True
 #show_downloads:  True
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+
+title: "Glady Samuel "
+description: "Data science, bioinformatics, and machine learning projects."
+author: "Glady Hazitha Samuel"
+theme: jekyll-theme-minimal # (You can change this to other themes)
+show_downloads: true
+github:
+  is_project_page: false
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
