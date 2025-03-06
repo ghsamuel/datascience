@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Drug Surveillance with NLP"
+---
+
 # 📊 Drug Surveillance with NLP
 
 This project analyzes **20,000+ patient reviews** using **NLP (SpaCy, NLTK, pyLDAvis)**.
