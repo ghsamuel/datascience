@@ -1,3 +1,6 @@
 title: "Glady Samuel"
 description: "My Data Science Portfolio"
 theme: jekyll-theme-cayman
+
+baseurl: "/datascience"  # IMPORTANT: If repo is "datascience"
+url: "https://ghsamuel.github.io"
